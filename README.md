@@ -24,7 +24,7 @@ How it works?
 
 ![image](https://github.com/user-attachments/assets/9a13016a-d448-414d-9d0c-52443c3b3c56)
 
-see https://medium.com/p/f26e523d7a35
+see: https://medium.com/p/f26e523d7a35
 
 #How LOWESS Works
 1. Local Fitting:
@@ -61,6 +61,19 @@ I did a plot for each ground track for ATL03 - Track 0129
 174 meters of retreat! 
 
 ![gt2l](https://github.com/user-attachments/assets/d841ad19-c8f0-472f-9011-aee4dfb90504)
+
+# gt2r
+
+![gt2r](https://github.com/user-attachments/assets/cf8e9e08-622b-440f-8ccd-b7f71c144206)
+
+#gt3l
+
+![gt3l](https://github.com/user-attachments/assets/3091dcd0-e499-4859-b40b-257ceecfdcd8)
+
+#gt3r
+
+![gt3r](https://github.com/user-attachments/assets/74d65a18-131d-4c97-a342-369e1961139c)
+
 
 
 

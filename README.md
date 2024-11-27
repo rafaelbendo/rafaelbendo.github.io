@@ -7,4 +7,4 @@
 
 ## I'm having a problem with the distance calculation. The distances in the plots are bigger than the real distance. The transect is about 1.200 meters. I will try to fix it
 
- ![newplot](https://github.com/user-attachments/assets/7ae214c7-f041-4e59-842f-926b1db8bd91)
+![newplot](https://github.com/user-attachments/assets/a781077e-64da-44ee-b41e-736dedb37088)
